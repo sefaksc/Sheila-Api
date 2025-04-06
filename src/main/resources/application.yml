@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: SheilaApi
+
+  data:
+    mongodb:
+      uri: "mongodb+srv://sheilamongodb:N6YJOO8WYy7xeJ6w@sheila.gzy7n.mongodb.net/Sheila?retryWrites=true&w=majority&appName=Sheila"
+
+server:
+  port: 8080
