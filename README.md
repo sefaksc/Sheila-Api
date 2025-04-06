@@ -1,6 +1,6 @@
 # Sheila API
 
-**Sheila**, P2P (Peer-to-Peer) networking ve UDP Hole Punching mantığıyla çalışan, çoklu uygulama ve oda (room) desteği sunan bir backend API'dir. Uygulama, MongoDB Atlas üzerinde verilerini tutar ve Spring Boot kullanılarak geliştirilmiştir.
+**Sheila Api**, P2P (Peer-to-Peer) networking ve UDP Hole Punching mantığıyla çalışan, çoklu uygulama ve oda (room) desteği sunan bir backend API'dir. Uygulama, MongoDB Atlas üzerinde verilerini tutar ve Spring Boot kullanılarak geliştirilmiştir.
 
 ---
 
